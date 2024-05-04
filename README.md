@@ -7,4 +7,5 @@
   <ul>
 ![Alt text](https://github.com/VadimNasyr/music_player/blob/master/player.png?raw=true)
 ![Alt text](https://github.com/VadimNasyr/music_player/raw/master/player.png)
-
+![Alt text](https://github.com/VadimNasyr/music_player/blob/master/player.png?raw=true)
+![Alt text](player.png)
