@@ -5,5 +5,5 @@
     <li>Sustabdyti, paleisti, perjungti atgal ir pirmyn, reguliuoti garsą, matyti grojimo vietą ir laiką;</li>
     <li>Surasti dainos tekstą, pagal artisto vardą ir dainos pavadinimą (Panaudotas "https://lyrics.ovh/" API).</li>
   <ul>
-![Alt text](https://github.com/VadimNasyr/music_player/raw/master/player.png)
+https://github.com/VadimNasyr/music_player/raw/master/player.png
 
